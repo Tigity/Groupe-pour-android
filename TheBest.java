@@ -17,5 +17,9 @@ public class TheBest {
       System.out.println("un peu sur moi : j'aime jouer au basket.");
       System.out.println();
 
+      System.out.println("Bonjour, je m<appelle Doga Uras");
+      System.out.println("Mon numéro d'étudiant est 300062160");
+      System.out.println("un peu sur moi : Bball and kebab...");
+      System.out.println();
     }
 }
