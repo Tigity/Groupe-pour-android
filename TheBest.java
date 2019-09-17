@@ -12,5 +12,10 @@ public class TheBest {
       System.out.println("un peu sur moi : j'aime skier et lire.");
       System.out.println();
 
+      System.out.println("Bonjour, je m<appelle Cagan Eraydin");
+      System.out.println("Mon numéro d'étudiant est 300059504");
+      System.out.println("un peu sur moi : j'aime jouer au basket.");
+      System.out.println();
+
     }
 }
