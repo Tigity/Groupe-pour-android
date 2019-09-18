@@ -21,5 +21,10 @@ public class TheBest {
       System.out.println("Mon numéro d'étudiant est 300062160");
       System.out.println("un peu sur moi : Bball and kebab...");
       System.out.println();
+        
+      System.out.println("Bonjour, je m<appelle Eda Su Biçer");
+      System.out.println("Mon numéro d'étudiant est 300064081");
+      System.out.println("un peu sur moi : j'aime le café et le chocolat.");
+      System.out.println();
     }
 }
